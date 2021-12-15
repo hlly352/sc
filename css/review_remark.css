@@ -1,0 +1,14 @@
+#main .remark_list div>span{
+	display:block;
+	text-align:left;
+	padding-right:5px;
+	padding-top:10px;
+}
+#main .remark_list div>p{
+	width:88%;
+	word-break:break-all;
+	text-align:left;
+}
+#main .remark_list div>p img{
+	width:100%;
+}
